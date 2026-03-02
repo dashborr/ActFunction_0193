@@ -23,6 +23,7 @@ void output() {
     cout << "Hasilnya : " << luasLingkaran(r) << endl;
 }
 
+
 int main() {
     input();
     output();
